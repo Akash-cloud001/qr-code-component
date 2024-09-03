@@ -25,14 +25,6 @@ Mobile Screen Shot:
 
 ![Screen Shot 2024-09-03 at 14 01 05](https://github.com/user-attachments/assets/a594c80f-6ca7-409f-86ac-4ee01ae61966)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Git solution URL ](https://github.com/Akash-cloud001/qr-code-component?tab=readme-ov-file)
