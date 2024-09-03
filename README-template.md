@@ -29,8 +29,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Akash-cloud001/qr-code-component?tab=readme-ov-file)
+- Live Site URL: [Add live site URL here](https://akash-cloud001.github.io/qr-code-component/)
 
 ### Built with
 
@@ -43,8 +43,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Akash-cloud001](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@WebDHub](https://x.com/WebDHub)
 
 
