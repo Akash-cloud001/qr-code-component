@@ -35,8 +35,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Akash-cloud001/qr-code-component?tab=readme-ov-file)
-- Live Site URL: [Add live site URL here](https://akash-cloud001.github.io/qr-code-component/)
+- Solution URL: [Git solution URL ](https://github.com/Akash-cloud001/qr-code-component?tab=readme-ov-file)
+- Live Site URL: [Live URL](https://akash-cloud001.github.io/qr-code-component/)
 
 ### Built with
 
